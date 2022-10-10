@@ -1,6 +1,6 @@
 package models
 
-import "github.com/shinkeika/MIT_6.824_2022/src/6.824/porcupine"
+import "6.824/porcupine"
 import "fmt"
 import "sort"
 

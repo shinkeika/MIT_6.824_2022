@@ -4,7 +4,7 @@ package main
 // see comments in lockd.go
 //
 
-import "github.com/shinkeika/MIT_6.824_2022/src/6.824/lockservice"
+import "6.824/lockservice"
 import "os"
 import "fmt"
 

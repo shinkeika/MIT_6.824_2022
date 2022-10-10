@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/shinkeika/MIT_6.824_2022/src/6.824/mr"
+	"6.824/mr"
 )
 
 //

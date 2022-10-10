@@ -5,7 +5,7 @@ package main
 //
 
 import "time"
-import "github.com/shinkeika/MIT_6.824_2022/src/6.824/pbservice"
+import "6.824/pbservice"
 import "os"
 import "fmt"
 

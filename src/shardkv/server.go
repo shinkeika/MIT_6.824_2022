@@ -1,10 +1,10 @@
 package shardkv
 
 
-import "github.com/shinkeika/MIT_6.824_2022/src/6.824/labrpc"
-import "github.com/shinkeika/MIT_6.824_2022/src/6.824/raft"
+import "6.824/labrpc"
+import "6.824/raft"
 import "sync"
-import "github.com/shinkeika/MIT_6.824_2022/src/6.824/labgob"
+import "6.824/labgob"
 
 
 

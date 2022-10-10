@@ -1,7 +1,7 @@
 package kvraft
 
-import "github.com/shinkeika/MIT_6.824_2022/src/6.824/porcupine"
-import "github.com/shinkeika/MIT_6.824_2022/src/6.824/models"
+import "6.824/porcupine"
+import "6.824/models"
 import "testing"
 import "strconv"
 import "time"

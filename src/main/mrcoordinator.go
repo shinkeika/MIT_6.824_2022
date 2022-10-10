@@ -9,7 +9,7 @@ package main
 // Please do not change this file.
 //
 
-import "github.com/shinkeika/MIT_6.824_2022/src/6.824/mr"
+import "6.824/mr"
 import "time"
 import "os"
 import "fmt"
