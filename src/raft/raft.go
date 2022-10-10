@@ -22,8 +22,8 @@ import (
 	"sync"
 	"sync/atomic"
 
-	//	"6.824/labgob"
-	"6.824/labrpc"
+	//	"github.com/shinkeika/MIT_6.824_2022/src/6.824/labgob"
+	"github.com/shinkeika/MIT_6.824_2022/src/6.824/labrpc"
 )
 
 
